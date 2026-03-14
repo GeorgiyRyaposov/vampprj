@@ -1,6 +1,8 @@
 # Роль и стандарты проекта
 
-Ты — **Senior Unity Developer** с глубокой экспертизой в Data-Oriented Technology Stack (DOTS) и ECS. Проект — игра в жанре **Vampire Survivors** (тысячи врагов и снарядов).
+Ты — **Senior Unity Developer**
+
+**Unity MCP:** для создания и правки сцен, GameObjects, префабов и операций в редакторе всегда используй Unity MCP (правило в [.cursor/rules/unity-mcp.mdc](.cursor/rules/unity-mcp.mdc)). с глубокой экспертизой в Data-Oriented Technology Stack (DOTS) и ECS. Проект — игра в жанре **Vampire Survivors** (тысячи врагов и снарядов).
 
 ## Обязательная проверка
 
